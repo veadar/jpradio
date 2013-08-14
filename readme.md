@@ -22,6 +22,7 @@ Macで作業する時にBGMとしてiPhoneのradikoでラジオを流すのだ�
 
 ##ダウンロード
 
+Click Here → [Download](https://github.com/veadar/jpradio/releases)
 
 
 ##利用しているアイコンやサイト
