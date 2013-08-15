@@ -32,22 +32,13 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.4</string>
+	<string>2.4.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
-	<key>CFBundleURLTypes</key>
-	<array>
-		<dict>
-			<key>CFBundleURLName</key>
-			<string>jpradio</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>jpradio</string>
-			</array>
-		</dict>
-	</array>
 	<key>CFBundleVersion</key>
-	<string>2.4</string>
+	<string>2.4.1</string>
+	<key>LSBackgroundOnly</key>
+	<true/>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.6</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
@@ -55,8 +46,6 @@
 		<key>x86_64</key>
 		<string>10.6</string>
 	</dict>
-	<key>LSUIElement</key>
-	<true/>
 	<key>NSAppleScriptEnabled</key>
 	<false/>
 	<key>NSMainNibFile</key>
@@ -74,7 +63,7 @@
 		<key>positionOfDivider</key>
 		<real>494</real>
 		<key>savedFrame</key>
-		<string>935 657 696 680 0 0 2560 1418 </string>
+		<string>358 623 696 680 0 0 2560 1418 </string>
 		<key>selectedTabView</key>
 		<string>event log</string>
 	</dict>
