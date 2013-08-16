@@ -1,7 +1,7 @@
 {
   "jpradio": {
-    "version": "2.4.1",
+    "version": "2.4.2",
     "url": "https://github.com/veadar/jpradio/releases",
-    "comment": "・再生中の番組の詳細情報にHTMLが反映されるように変更"
+    "comment": "・LSBackgroudOnlyに実行スタイルを変更してダイアログが表示されなくなってしまっていた不具合の修正"
   }
 }
