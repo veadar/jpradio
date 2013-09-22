@@ -1,7 +1,7 @@
 {
   "jpradio": {
-    "version": "2.4.3",
+    "version": "2.5.0",
     "url": "https://github.com/veadar/jpradio/releases",
-    "comment": "・10.7で音が出ない問題を修正しました\n・リブログコメントありがとうございます\n・http://comsmet.tumblr.com/post/57642832756"
+    "comment": "・音量調節機能の追加(10.8以降)\n・getElementByIdメソッドを使用しているため10.7以前ではこの新機能はお使いになれないと思います\n・JavaScriptの修正をしてくださる方募集"
   }
 }
